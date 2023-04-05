@@ -10,4 +10,4 @@
 
 Вывод статистики
 
-![Снимок экрана (433)](https://user-images.githubusercontent.com/91433112/230047958-cc7d82f7-6b15-48bc-821a-fc66aace7629.png)
+![Снимок экрана (436)](https://user-images.githubusercontent.com/91433112/230049149-92ecaf47-4734-4f03-9d4f-72b5cefff840.png)
