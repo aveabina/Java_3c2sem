@@ -44,6 +44,6 @@ public class Product {
     }
 
     public String getInfo() {
-        return "Название: " + name + ", цена: " + price + ", количество: " + quantity + ", производитель: " + manufacturer;
+        return "Наименование: " + name + ", цена (кг): " + price + ", количество (кг): " + quantity + ", поставщик: " + manufacturer;
     }
 }
